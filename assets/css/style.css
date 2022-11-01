@@ -1,3 +1,7 @@
+a {
+  text-decoration: none !important;
+}
+
 /* 
 --------------------------------------------------------
 HEADER
@@ -163,11 +167,11 @@ HEADER
   transition: 0.3s;
 }
 
-/* .header-nav .messages .message-item a {
+.header-nav .messages .message-item a {
   display: flex;
 }
 
-.header-nav .messages .message-item img {
+/* .header-nav .messages .message-item img {
   margin: 0 20px 0 10px;
   max-height: 40px;
 }
